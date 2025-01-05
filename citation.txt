@@ -1,0 +1,6 @@
+@inproceedings{REPO297,
+    author = "Li, Pengyi and Jianye, HAO and Tang, Hongyao and Zheng, Yan and Barez, Fazl",
+    booktitle = "Forty-first International Conference on Machine Learning",
+    title = "{Value-Evolutionary-Based Reinforcement Learning}",
+    year = "2023"
+}
